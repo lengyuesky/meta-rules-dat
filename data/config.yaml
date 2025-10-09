@@ -101,6 +101,9 @@ dns:
     - https://dns.google/dns-query
     - https://dns.alidns.com/dns-query
   # namesever尽量用运营商提供的DNS
+  direct-nameserver:
+    - https://dns.alidns.com/dns-query
+    - https://doh.pub/dns-query
   nameserver:
     - https://dns.alidns.com/dns-query
     - https://doh.pub/dns-query
