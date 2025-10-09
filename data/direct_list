@@ -1,8 +1,10 @@
 # 代理补充列表
 
 # 域名后缀匹配
-DOMAIN-SUFFIX,freecloud.ltd
-
+DOMAIN-SUFFIX,lengyuesky.pp.ua
+# 域名匹配
+DOMAIN,web.freecloud.ltd
+DOMAIN,panel.freecloud.ltd
 # 域名关键字匹配
 DOMAIN-KEYWORD,1e100
 
