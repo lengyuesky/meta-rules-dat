@@ -8,6 +8,10 @@ DOMAIN,panel.freecloud.ltd
 # 域名关键字匹配
 #DOMAIN-KEYWORD,baidu
 
+#DNS
+DOMAIN,dns.alidns.com
+DOMAIN,doh.pub
+
 # 国外DNS
 DOMAIN-SUFFIX,dns.google
 DOMAIN-SUFFIX,cloudflare-dns.com
